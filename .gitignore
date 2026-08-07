@@ -1,0 +1,6 @@
+twitch_config.txt
+config.json
+bin/
+obj/
+*.user
+*.png~

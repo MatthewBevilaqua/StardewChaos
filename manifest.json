@@ -1,0 +1,10 @@
+{
+  "Name": "Stardew Valley Chaos Mod",
+  "Author": "MatthewBevilaqua",
+  "Version": "1.0.0",
+  "Description": "Random chaos effects on a timer. Press F7 to configure.",
+  "UniqueID": "MatthewBevilaqua.StardewChaos",
+  "EntryDll": "StardewChaos.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": ["Nexus:50142"]
+}
